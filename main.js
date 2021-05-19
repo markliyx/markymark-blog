@@ -56,3 +56,5 @@ function stick(){
         navbar.classList.remove("sticky");
     }
 }
+
+// filtering out video types
