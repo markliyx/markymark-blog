@@ -6,6 +6,8 @@ Current features:
 2. Music page (embedded with youtube and soundcloud components)
 3. Coming soon page
 4. Blog post page
+5. icons connecting to other social media
+6. Always on navigation bar
 
 Upcoming features: 
 1. Query from notion API and automatically populates the front blog page
