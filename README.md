@@ -11,6 +11,7 @@ Upcoming features:
 1. Query from notion API and automatically populates the front blog page
 2. A simple filter tag function, retrieve from notion API only specifically tagged posts
 3. Automatically updates daily
+4. Load more function on the front page
 
 Blog URL is as below: 
 https://markliyx.github.io/markymark-blog/
